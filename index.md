@@ -19,7 +19,7 @@
 
 ### Python Samples 
 
-- [Project 1 Title](mmelto21.github.io/sample_page.md)
+- [Project 1 Title](mmelto21.github.io/blob/master/PriorityQueue.java)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
