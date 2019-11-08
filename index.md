@@ -5,7 +5,7 @@
 ### Java Samples 
 
 - [Java - Priority Queue](PriorityQueue.java)
-
+<img src="images/priority_queue.png?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -19,6 +19,8 @@
 ### Python Samples 
 
 - [Bioinformatics - AA Translation](Bioinformatics - AA Translation.py)
+<img src="images/Bioinformatics_AAtranslation.png?raw=true"/>
+---
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
