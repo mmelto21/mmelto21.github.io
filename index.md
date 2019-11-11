@@ -4,11 +4,11 @@
 
 ### Java Samples 
 
-- [Java - Priority Queue](PriorityQueue.java)
+- [Priority Queue](PriorityQueue.java)
 <img src="images/priority_queue.png?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Magic Square Test](/pdf/sample_presentation.pdf)
+<img src="images/MagicSquareProject.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
