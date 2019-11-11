@@ -7,7 +7,7 @@
 - [Priority Queue](PriorityQueue.java)
 <img src="images/priority_queue.png?raw=true"/>
 ---
-[Magic Square Test](/pdf/sample_presentation.pdf)
+- [Magic Square Test](/pdf/sample_presentation.pdf)
 <img src="images/MagicSquareProject.png?raw=true"/>
 
 ---
